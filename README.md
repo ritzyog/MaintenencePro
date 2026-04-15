@@ -5,7 +5,7 @@
 # This is a simple app that keeps track of vehicle maintenence.
 
 ## Project Description
-### MaintenencePro is an app that will allow users to keep track of service in an easy to navigate app. It will keep track of the services performed on the vehicle so the user can have documentation of work performed on the ### vehicle. The services it tracks are uploaded to the app and it can either record service performed by repair facilities or the users itself.
+### MaintenencePro is an app that will allow users to keep track of service in an easy to navigate app. It will keep track of the services performed on the vehicle so the user can have documentation of work performed on the vehicle. The services it tracks are uploaded to the app and it can either record service performed by repair facilities or the users itself.
 
 ## Problem Being Addressed 
 ### MaintenencePro is designed to store records of maintenance on vehicles. This record keeping is for if you have to sell your vehicle or show that regular maintenance was done for warranty work. This app keeps all of the ### records in one place and will be free. This matters because keeping records of diy maintenance has always been difficult for consumers.
