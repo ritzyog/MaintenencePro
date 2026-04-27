@@ -27,4 +27,4 @@
 * Also a wiki was added to github.
 
 ## Upcoming Changes 5/3/2026
-### This will be the final release. A simple user account creation and login will be added to the app. This account will be locally stored. I plan to add a document or picture upload button that will save under the selected vehicle for maintenece documentaiton. I would like to try and add a download button that the user can save so they can print or share the maintenence records easily. Other changes include making the app have a cleaner looking user interface.
+### This will be the final release. A simple user account creation and login will be added to the app. This account will be locally stored. I plan to add a document or picture upload button that will save under the selected vehicle for maintanece documentaiton. I would like to try and add a download button that the user can save so they can print or share the maintanence records easily. Other changes include making the app have a cleaner looking user interface.
