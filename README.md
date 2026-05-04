@@ -17,8 +17,7 @@
 ### The front-end of the app will be written in java using XML layouts. The back-end of the app will store data using SQLite  or SharedPreferences.
 
 ## Functionality
-### The App will have a simple user interface where the user can create profiles for different vehicles. Then under the selected vehicle the user can upload documents or photos of receipts of service. There will also be 
-### text boxes where the user can type comments about the service. The app will automatically insert the date and time of the uploaded documents.
+### The App will have a simple user interface where the user can create profiles for different vehicles. Then under the selected vehicle the user can upload documents or photos of receipts of service. There will also be text boxes where the user can type comments about the service. The app will automatically insert the date and time of the uploaded documents.
 
 # Updates 
 
